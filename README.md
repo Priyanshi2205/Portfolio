@@ -1,4 +1,3 @@
-![Profile Image](IMG_20220503_224859-min.jpg)
 # Priyanshi Mittal
 * An aspiring Data Scientist
 
