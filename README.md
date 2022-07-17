@@ -4,7 +4,7 @@
 * An aspiring Data Scientist
 
 # [Project 1: Student-Performance Analysis] (https://github.com/Priyanshi2205/Student-Performance---Machine-Learning)
-![Student Performance Analysis]
+![Student Performance Analysis](Student Performance.jpg)
 
 Photo by <a href="https://unsplash.com/@antenna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Antenna</a> on <a href="https://unsplash.com/s/photos/student-performance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
