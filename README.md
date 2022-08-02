@@ -17,4 +17,10 @@ Photo by <a href="https://unsplash.com/@briewilly?utm_source=unsplash&utm_medium
 This is a project which suggests the best model to predict in future that the customer arising on the website will order the food or not. In this project, I have tried to predict with the existing data whether the customer will order the food or not when they visit the website.
 * **Models :** KNN, Logistic Regression, SVM, Naive Bayes.
 
+# [Project 3: Customer Segmentation - RFM Analysis](https://github.com/Priyanshi2205/Customer-Segmentation---RFM-Analysis)
+![Customer Segmentation](Customer Segmentation.jpg)
 
+Photo by <a href="https://unsplash.com/es/@kspyroglou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kleomenis Spyroglou</a> on <a href="https://unsplash.com/s/photos/mall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+The main objective of this project is to segment the target customers given on the basis of  different customers  behaviors and features, in order for the company to be able to market for each segment in a manner that is more fitting to each individual customer.
+* **Model used :** Hierarchical Clustering.
